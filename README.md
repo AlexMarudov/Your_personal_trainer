@@ -41,3 +41,5 @@
 
 - [Эталонное выполнение](https://github.com/AlexMarudov/Your_personal_trainer/tree/main/src/myproject_models/examples/reference)
 - [Ваша попытка выполнения этого упражнения](https://github.com/AlexMarudov/Your_personal_trainer/tree/main/src/myproject_models/examples/try)
+
+![Веб-приложение](webapp_personal_trainer.png)
